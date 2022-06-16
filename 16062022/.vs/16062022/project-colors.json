@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42860005-b43a-4dad-abaa-eee332b5f4b4": {
+      "ProjectGuid": "42860005-b43a-4dad-abaa-eee332b5f4b4",
+      "DisplayName": "Abstraction",
+      "ColorIndex": 0
+    },
+    "8c124fab-620b-4e98-8d2c-f2a0c096573e": {
+      "ProjectGuid": "8c124fab-620b-4e98-8d2c-f2a0c096573e",
+      "DisplayName": "Task2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
